@@ -28,6 +28,6 @@ Created by Keen & FurYuenji, open-sourced under MIT License. Word content copyri
 
 ## 📁 下载方式 | Download Zip
 [蓝奏云 | woozooo](https://zip1.webgetstore.com/2025/12/13/b91b16a0c4a38019bb482f53cfb5209c.zip?sg=68e4bbd1612a47f3e3de2eba74add8af&e=693d312d&fileName=MsTiffany.zip&fi=266288017 "直链下载 | download") & 
-[永硕e盘 | yse-e](http://ys-g.cccpan.com/wap/keen/HbagTAjF4hTh29C/z2Pb7jg-CB64Ok0TFnBd7A19E8wdbB/MsTiffany.zip "直链下载 | download")
+[永硕e盘 | yse-e](http://keen.cccpan.com/ "网盘主页 | download")
 
 反馈邮箱 | Feedback: ran@zhiyuan.email.cn
