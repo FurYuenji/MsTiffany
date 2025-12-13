@@ -1,0 +1,49 @@
+Help Document | 帮助文档
+
+@ Purpose | 功能作用 @
+This tool is designed for random extraction of names and English words from specified TXT files, applicable to scenarios like classroom roll call, word spot checks, etc. It features offline operation, simple operation, and automatic exclusion of extracted content to avoid repetition.
+本工具用于从指定TXT文件中随机抽取姓名与英语单词，适用于课堂点名、单词抽查等场景；支持离线使用，操作简便，且会自动排除已抽取内容，避免重复。
+
+@ Usage of Main File | 主文件使用方法 @
+1. Launch the tool: Click the file path "\MsTiffany\go.html".
+   启动工具：点击文件路径 "\MsTiffany\go.html"。
+2. File selection:
+   文件选择：
+   - Select the TXT file containing names (file name must include "name").
+     选择包含姓名的TXT文件（文件名必须包含"name"）。
+   - Select the TXT file containing words (file name must include "words").
+     选择包含单词的TXT文件（文件名必须包含"words"）。
+3. Extraction operation:
+   抽取操作：
+   - Continuous extraction of ANY content is permitted as long as the tab remains open, with NO need to reselect files whatsoever.
+     只要不关闭标签页，即可对任意内容进行连续抽取，完全无需重新选择文件。
+   - Extracted content will be automatically excluded in the background.
+     后台会自动排除已抽取的内容。
+
+@ Compatibility | 兼容性 @
+- All codes run offline, written in a lightweight and high-speed manner.
+  所有代码无需联网运行，均采用轻量极速型写法。
+- Compatible with older browsers (e.g., IE) and performs better on mainstream modern browsers.
+  兼容IE等老版本浏览器，在主流新款浏览器中使用体验更佳。
+- Tested and passed very strong: Runs smoothly on the classroom multimedia whiteboard that’s stuffed with a full set of USB drive viruses and takes 2 hours to boot up; The author with 50,000-degree myopia sitting in the last row also tested it, and the font clarity is fully up to standard 😜
+  亲测通过：塞满U盘病毒全家桶、开机得等2小时的班级多媒体电子白板丝滑运行；50000度近视坐最后一排的本作者亲测，字号清晰度直接拉满😜
+
+@ Adding Names & Words | 添加姓名/单词 @
+Refer to GIF tutorials for operation:
+操作请参考动图教程：
+- Add names: "\MsTiffany\help\add-name.gif"
+  添加姓名："\MsTiffany\help\add-name.gif"
+- Add words: "\MsTiffany\help\add-words.gif"
+  添加单词："\MsTiffany\help\add-words.gif"
+
+@ ⚠️ Notes | 注意事项 @
+- All files must be in TXT format (suffix: .txt).
+  所有文件后缀必须为TXT格式。
+- Name file name must contain the keyword "name".
+  姓名文件文件名需包含"name"关键词。
+- Word file name must contain the keyword "words".
+  单词文件文件名需包含"words"关键词。
+
+@ Feedback | 反馈渠道 @
+For questions or suggestions, please send an email to: ran@zhiyuan.email.cn
+如有问题或建议，请发送邮件至：ran@zhiyuan.email.cn
