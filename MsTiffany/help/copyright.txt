@@ -1,6 +1,6 @@
 Copyright Notice
 
-This program is created by Keen & FurYuenji and is open source under the MIT License. The official download channel for this program at http://keen.cccpan.com/. The source code can be found at https://github.com/FurYuenji/MsTiffany. For more information, visit the blog at https://rzy.great-site.net/.
+This program is created by Keen & FurYuenji and is open source under the MIT License. The official download channel for this program at http://keen.cccpan.com/. The source code can be found at https://github.com/FurYuenji/MsTiffany. For more information, visit the blog at https://zooyoo.top/.
 
 The sound effects used in this program are from https://taira-komori.net/freesoundcn.html.
 
@@ -18,7 +18,7 @@ When reprinting, forking, or distributing this program, please retain this copyr
 
 版权声明
 
-本程序由 Keen 与 FurYuenji 联合开发，基于 MIT 许可证开源。本程序的官方下载渠道为：http://keen.cccpan.com/。程序源代码可访问以下链接获取：https://github.com/FurYuenji/MsTiffany。如需了解更多信息，可访问博客：https://rzy.great-site.net/。
+本程序由 Keen 与 FurYuenji 联合开发，基于 MIT 许可证开源。本程序的官方下载渠道为：http://keen.cccpan.com/。程序源代码可访问以下链接获取：https://github.com/FurYuenji/MsTiffany。如需了解更多信息，可访问博客：https://zooyoo.top/。
 
 本程序中使用的音效素材来源于网站：https://taira-komori.net/freesoundcn.html。
 
