@@ -29,7 +29,7 @@ See help document for details: `MsTiffany/help/help.txt`
 Created by Keen & FurYuenji, open-sourced under MIT License. Word content copyright belongs to Foreign Language Teaching and Research Press. Free to use, resale prohibited.  
 
 ## 📁 下载方式 | Download Zip
-[蓝奏云 | woozooo](https://zip1.webgetstore.com/2025/12/13/4f08b41a0cc769c1694314bbe4d428aa.zip?sg=37da6c8907c9f0afe9a10fcf6e5bde21&e=693d3be5&fileName=MsTiffany.zip&fi=266302837 "直链下载 | download") & 
+[蓝奏云 | woozooo](https://yuenji.lanzoul.com/iQhx13dirk0h "跳转下载 | download") & 
 [永硕e盘 | yse-e](http://keen.cccpan.com/ "网盘主页 | download")
 
 反馈邮箱 | Feedback: ran@zhiyuan.email.cn
