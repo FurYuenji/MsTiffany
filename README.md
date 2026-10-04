@@ -30,6 +30,6 @@ Created by Keen & FurYuenji, open-sourced under MIT License. Word content copyri
 
 ## 📁 下载方式 | Download Zip
 [蓝奏云 | woozooo](https://yuenji.lanzoul.com/iQhx13dirk0h "跳转下载 | download") & 
-[永硕e盘 | yse-e](http://keen.cccpan.com/ "网盘主页 | download")
+[永硕e盘 | yse-e](https://ys-c.cccpan.com/wap/keen/HbagTAjF4hTG2AS/52Pb7jg-CE6AAN0VTnBd7A1CDOwh2/MsTiffany.zip "跳转下载 | download")
 
 反馈邮箱 | Feedback: ran@zhiyuan.email.cn
